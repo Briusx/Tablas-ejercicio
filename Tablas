@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<header></header>
+<body>
     <h1>Tablas</h1>
     <table border="2" cellspacing="2">
         <tr>
@@ -140,4 +142,5 @@
             </tr>
         </table>
       </table>
+</body>
 </html>
